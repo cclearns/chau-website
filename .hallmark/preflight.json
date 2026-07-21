@@ -1,0 +1,10 @@
+{
+  "scanned": "2026-07-19",
+  "fontStack": "none (system-ui only, style.css:21 pre-redesign)",
+  "palette": "plain hex tokens, no OKLCH (pre-redesign)",
+  "motionLibrary": "none",
+  "spacingScale": "ad-hoc rem values, no declared scale (pre-redesign)",
+  "framework": "vanilla static HTML/CSS, no package.json",
+  "designMdFound": false,
+  "hallmarkLogFound": false
+}
